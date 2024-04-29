@@ -1,7 +1,8 @@
 # Project "Investigation of the War in Ukraine and Changes in Attacks and Fatalities"
 
-[https://annashliapkina.github.io/Ukraine_under_attack/monthly_fatalities_animation.html](https://annashliapkina.github.io/Ukraine_under_attack/monthly_fatalities_animation.html)
-[https://annashliapkina.github.io/Ukraine_under_attack/fatalities_map.html](https://annashliapkina.github.io/Ukraine_under_attack/fatalities_map.html)
+[monthly_fatalities_animation.html](https://annashliapkina.github.io/Ukraine_under_attack/monthly_fatalities_animation.html)
+[fatalities_map.html](https://annashliapkina.github.io/Ukraine_under_attack/fatalities_map.html)
+[heatmap](https://annashliapkina.github.io/Ukraine_under_attack/heatmap.html)
 
 ## Project Description
 
