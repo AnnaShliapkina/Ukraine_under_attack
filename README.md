@@ -1,5 +1,8 @@
 # Project "Investigation of the War in Ukraine and Changes in Attacks and Fatalities"
 
+[https://annashliapkina.github.io/Ukraine_under_attack/monthly_fatalities_animation.html](https://annashliapkina.github.io/Ukraine_under_attack/monthly_fatalities_animation.html)
+[https://annashliapkina.github.io/Ukraine_under_attack/fatalities_map.html](https://annashliapkina.github.io/Ukraine_under_attack/fatalities_map.html)
+
 ## Project Description
 
 This project investigates the war in Ukraine and changes in attacks and fatalities since the beginning of the war on February 24, 2022, to the present day. The data for analysis was obtained from [ACLED](https://acleddata.com), which contains information on all political violence events, demonstration events, and strategic developments in Ukraine.
