@@ -16,8 +16,43 @@ _(A detailed description of the dataset, its structure, content, and potential u
 
 The following steps were taken in the project:
 
-1. **Data Checking**: Data was checked for missing values and duplicates.
-2. **Data Cleaning**: Errors were corrected, and redundant data was removed.
+### 1. Data Checking
+
+Data was checked for missing values and duplicates.
+
+### 2. Data Cleaning
+
+#### Data Cleaning Phase
+
+In the data cleaning phase, the raw dataset was processed to ensure consistency and reliability. The following steps were undertaken:
+
+- **Loading and Exploration:**
+
+  - The dataset was loaded into the environment using Pandas, and an initial exploration was conducted to understand its structure and content.
+
+- **Data Cleaning and Transformation:**
+
+  - Irrelevant or redundant columns were removed, and missing or inconsistent values were addressed.
+  - Data types were adjusted, and columns were renamed for clarity.
+
+- **Data Filtering:**
+
+  - The dataset was filtered to include only relevant data points based on specific criteria or conditions.
+
+- **Data Export:**
+  - The cleaned dataset was exported to a CSV file for further analysis and modeling.
+
+For a detailed overview of the data cleaning process and the code implementation, please refer to the `cleaning.ipynb` Jupyter Notebook.
+
+### 3. Data Visualization
+
+Various graphs and visualizations were created for a better understanding of the data.
+
+### File Structure:
+
+- **cleaned_data.csv**: Cleaned dataset saved in CSV format.
+- **cleaning.ipynb**: Jupyter Notebook containing the code for data cleaning.
+
 3. **Data Visualization**: Various graphs and visualizations were created for a better understanding of the data.
 
 ## Libraries Used
