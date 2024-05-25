@@ -46,22 +46,18 @@ pip install pandas numpy folium matplotlib seaborn plotly
 
 ## Usage
 
-### Basic Map with Markers
-
-This map shows the first 10 events with markers. Each marker includes a popup displaying the `sub_event_type`. The map is saved as [charts/map.html](charts/map.html).
-
 ### Map with Fatalities
 
-This map visualizes locations with fatalities using scaled markers based on the number of fatalities. The map is saved as [charts/fatalities_map.html](charts/fatalities_map.html).
+This map visualizes locations with fatalities using scaled markers based on the number of fatalities. The map is saved as [fatalities_map.html](https://annashliapkina.github.io/Ukraine_under_attack/charts/fatalities_map.html).
 
 ### Animated Map of Monthly Fatalities
 
-This map shows the temporal distribution of fatalities using an animated timeline. The map is saved as [charts/monthly_fatalities_animation.html](charts/monthly_fatalities_animation.html).
+This map shows the temporal distribution of fatalities using an animated timeline. The map is saved as [monthly_fatalities_animation.html](https://annashliapkina.github.io/Ukraine_under_attack/charts/monthly_fatalities_animation.html).
 
 ### Event Type Map
 
-This map displays different types of events with colored markers. The legend explains the color coding. The map is saved as [charts/events_map.html](charts/events_map.html).
+This map displays different types of events with colored markers. The legend explains the color coding. The map is saved as [charts/events_map.html](https://annashliapkina.github.io/Ukraine_under_attack/charts/events_map.html).
 
 ### Heatmap
 
-This heatmap shows the density of events across different locations. The map is saved as [charts/heatmap.html](charts/heatmap.html).
+This heatmap shows the density of events across different locations. The map is saved as [heatmap.html](https://annashliapkina.github.io/Ukraine_under_attack/charts/heatmap.html).
