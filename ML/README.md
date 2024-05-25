@@ -54,7 +54,3 @@ The model achieved an accuracy of approximately 98.68%. However, other metrics s
 ## Conclusion
 
 The model demonstrates strong predictive capability for certain event types but faces challenges with others. Further refinement and exploration of alternative approaches are recommended to improve overall performance.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
